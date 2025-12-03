@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <movieTitle>The Shawshank Redemption</movieTitle>
+        <profit>58300000</profit>
+        <movieCast>Tim Robbins, Morgan Freeman</movieCast>
+        <releaseDate>1994-09-23</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>836800000</profit>
+        <movieCast>Leonardo DiCaprio, Tom Hardy</movieCast>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    
+    <movie>
+        <movieTitle>The Dark Knight</movieTitle>
+        <profit>1005000000</profit>
+        <movieCast>Christian Bale, Heath Ledger</movieCast>
+        <releaseDate>2008-07-18</releaseDate>
+        <platform>Amazon Prime</platform>
+    </movie>
+    
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>677500000</profit>
+        <movieCast>Matthew McConaughey, Anne Hathaway</movieCast>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Paramount+</platform>
+    </movie>
+</movies>
